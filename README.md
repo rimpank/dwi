@@ -1,2 +1,2 @@
 # dwi
-Dwi Nanto
+Just Dwi
