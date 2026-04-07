@@ -5,35 +5,53 @@ Kami adalah penyedia jasa publikasi di Indonesia yang mencakup berbagai platform
 # Publikasi Berita Online
 
 List Media Online:
-1. Detik.com
-2. Kompas.com
-3. Liputan6.com
-4. Tribunnews.com
-5. Medcom.id
-6. Jawapos.com
-7. Kapanlagi.com
-8. Indozone.com
-9. Viva.co.id
-10. Tabloidbintang.com
-11. Jpnn.com
-12. Hops.id
-13. Tabnyata.com
-14. Suara.com
-15. Kumparan.com
-16. Selebritalk-pikiranrakyat.com
-17. Voi.id
-18. Wartakotalive.com
-19. Intipseleb.com
-20. Citraselebriti.com
-21. Koranindopos.com
-22. Okezone.com
-23. Idntime.com
-24. Era.od
-25. Antaranews.com
-26. akurat.co
-27. insertlive.com
-28. Grid.id
-29. Jakartashowbiz.com
+1. Detik
+2. Kompas
+3. Liputan6
+4. Tribunnews
+5. Medcom
+6. Jawapos
+7. Kapanlagi
+8. Indozone
+9. Viva
+10. Tabloid Bintang
+11. Jpnn
+12. Hops
+13. Tabloid Nyata
+14. Suara
+15. Kumparan
+16. Selebritalk
+17. Voi
+18. Wartakotalive
+19. Intipseleb
+20. Citra selebriti
+21. Koran indopos
+22. Okezone
+23. IDN times
+24. Era ID
+25. Antaranews
+26. akurat
+27. insertlive
+28. Grid
+29. Jakartashowbiz
 30. Eventory
 dst
     
+# PODCast
+1. Si Paling Seleb
+2. Kinari 
+3. Bersinema
+4. Meet Nite Live
+5. Lentera Malam
+6. Kapanlagi Talk
+7. Ngorbit
+8. Vbiz
+9. BundLifetainment
+10. Detik Pagi
+11. Bloom Media
+12. Cinecrib
+13. TS media
+14. Tuah Kreasi
+15. Movie Talk
+dst
+   
